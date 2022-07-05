@@ -1,26 +1,5 @@
-# FinalReport
-<p align="center">
-<img width="700px" src="https://user-images.githubusercontent.com/79950095/120919672-c50a3600-c6f5-11eb-9ed7-95359f927284.png">
-<br>
-<img src="https://img.shields.io/badge/license-mit-green">
-<img src="https://img.shields.io/github/issues/hongjin4790/SYE-project">
-<img src="https://img.shields.io/badge/tag-v1.0.0-blue">
-<br>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tomcat9.0-F8DC75?style=flat-square&logo=Apache-Tomcat&logoColor=black"/>
-<br>
-<br><br><br><br><br>
- </p>
+# Portfolio
 
-# Project Name = 갖다드림(bring you)
-# Team Member : 김준혁, 김형진, 마건우, 옥석우, 차형석
-# Youtube Link(어플 소개 및 구동영상) : https://youtu.be/jB9QAhMm0tQ
-
-___
 ## 목차
 
  1. 주제 선정 이유
