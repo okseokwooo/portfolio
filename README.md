@@ -108,7 +108,7 @@ ii. 구현한 명령어에 대한 설명 및 사용 예제
  
 iii. 주요 코드에 대한 코드 분석
 
-1) cat
+## 1) cat
 ```c
 int cat(char argv[100]){
 	FILE *fp;
@@ -137,7 +137,7 @@ int cat(char argv[100]){
  Minishell에서 사용자가 입력한 값이 cat이면 cat 함수를 호출한다. cat 함수를 호출 하기전에 main문에서 %[^\n]s 형태로 문자열을 받는다. 이는 공백을 포함하여 문자열을 넘겨 주겠다는 뜻이며 사용자가 다수의 파일을 입력할 때도 오류없이 정상 동작한다. cat함수를 살펴보면 우선 사용자가 넘긴 값을 strtok를 통해 공백을 기준으로 문자열을 자른다. 그 자른 문자열을 하나씩 fopen 함수를 통하여 파일을 오픈한다. 만약 파일값을 입력하지 않았다면 –1을 반환하고, 정상적으로 입력했다면 0을 반환한다. 이는 main 문에서 cat_num 값이 –1이라면 continue를 수행하여 잘 못 입력했다는 것을 알 수 있다. 
  
 
-2) pwd
+## 2) pwd
 
 ```c
 char* getcwd(char* buf,size_t size);
@@ -156,7 +156,7 @@ void pwd(void){
 
 
 
-3) cd 
+## 3) cd 
 ```c
 void cd(char argv[]){
 	char buf[30];
@@ -172,7 +172,7 @@ void cd(char argv[]){
 
  Minishell에서 사용자가 입력한 값이 cd이면 cd함수를 호출한다. chdir(경로)를 사용한 결과 0이 나오면 경로 이동이 성공한다. 만약 0이 아니라면 변경에 실패한다.
 
-4) mkdir
+## 4) mkdir
 ```c
 void mk(){
 	char path[1024];
@@ -197,7 +197,7 @@ void mk(){
  Minishell에서 사용자가 입력한 값이 mkdir 이면 mk 함수를 호출한다. 여기서 read는 경로 입력이고, write는 디렉터리 생성 성공과 실패를 출력한다. mkdir는 디렉터리를 생성 하고 성공시 0을 반환한다. 먼저 read 함수로 경로를 입력받는다. read 함수는 입력받은 문자열에 자동으로 개행 문자가 들어가게 된다. 경로에는 개행 문자(\n)가 들어갈 수 없기 때문에 제거한다. while문을 이용해서 개행 문자를 찾으면 0으로 값을 변경하도록 한다. mkdir에 기본 함수 형은 mkdir(경로 이름, 권한) 이다. 디렉터리의 기본 권한은 755 이므로 result에 경로와 0755를 넣는다. 마지막 부분에는 디렉터리를 생성해서 반환 값에 따라 메시지를 출력한다.
 
 
-5) ls
+## 5) ls
 ```c
  void ls(){
 	char *cwd = (char*)malloc(sizeof(char)*1024);
@@ -221,7 +221,7 @@ void mk(){
  Minishell에서 사용자가 ls를 입력하였을 때 ls 함수를 호출한다. ls는 기본적으로 opendir함수와 readdir 함수를 사용한다. opendir 함수는 매개변수에 해당하는 디렉토리 스트림을 열고 그 디렉토리 스트림에 대한 포인터를 반환한다. readdir 함수는 dirent 구조체 내에 있는 디렉토리 내용을 읽는다. 먼저 동적 메모리 할당을 하고, dirent 구조체에 접근한다. dirent 구조체는 파일, 또는 디렉토리가 가지고 있는 정보 구조체이다. 여기서 파일을 read할 때 파일명 앞에 .이 붙어있다면 히든 파일이다. 그 히든 파일을 숨기기 위해 entry->d_name[0] 값이 . 이라면 continue 시켜 출력 시키지 않는다.
 
    
-6) history
+## 6) history
 ```c
 	scanf("%s",buffer);
 		words[n] = strdups(buffer);
@@ -234,7 +234,7 @@ void mk(){
  
  history는 따로 함수를 만들지 않고, main문에서 사용자가 명령어 또는 값을 입력할 때마다 strdups함수를 사용하여 words 포인터 배열 변수에 저장한다. 만약 사용자가 history를 입력하면 words 배열에 있는 값들을 모두 출력한다. 
 
-7) ![number] history
+## 7) ![number] history
 ```c
 scanf("%s",his);
 			if(his[0] == '!'){
@@ -254,7 +254,7 @@ scanf("%s",his);
 ``` 
 사용자가 history를 입력한다면 scnaf 함수를 다시 사용하여 !숫자 값을 받기를 기다린다. his라는 배열을 이용하여 만약 his[0]이 !라면 ![number] 기능을 사용한다는 뜻이기 때문에 함수가 동작한다. 먼저 포인터 문자 변수에 strtok를 사용하여 !를 제외한 값을 저장한다. 그리고 그 값을 atoi함수를 통해 문자열을 정수로 바꾼다. words[n]은 0부터 시작하기 때문에 words[n-1]이 사용자가 원하는 값이 된다. 그 값을 출력하고, strcpy를 통해 buffer에 문자열 복사를 한다. buffer에 복사된 값을 명령어들과 하나씩 비교하여 만약 그 명령어가 있다면 수행한다.  
 
-8) ps
+## 8) ps
 ```c
 void ps(){
 	DIR *dir;
@@ -290,7 +290,7 @@ int getCmdLine(char *file, char *buf){
 ```
   pid값을 얻기 위해서는 getpid()와 getppid() 함수를 사용한다. 디렉토리 이름이 proc/pid/cmdiline 이라면 프로세스 이름을 알 수 있다. 이 때 부모 프로세스에 pid 값과 자식 프로세스에 pid 값을 이용한다. while문을 통하여 /proc에 존재하는 파일들을 차례대로 읽는다. 그리고 pid3 변수에 숫자로 반환한다. /proc/pid/cmdline에서 프로세스의 이름을 가져오는 함수로 보낸다. getCmdLine에서는 tempPath값과 cmdline값을 받아서 모든 값을 반환한다. 여기서 부모 프로세스 pid 값과 자식 프로세스 pid 값을 이용하여 출력한다.
  
-9) cp
+## 9) cp
 ```c
 void cp(char *arg[100],char *argv[100]){
 	char ch;
@@ -305,7 +305,7 @@ void cp(char *arg[100],char *argv[100]){
  ```
  cp는 명령어를 동작할 때 scnaf(“%s%s”)로 2개의 값을 받는다. 변수 src에 복사 할 파일을 RDONLY를 사용해 읽기 전용으로 open한다. 변수 dst에는 새로 생성될 파일에 O_WRONLY | O_CREAT | O_TRUNC, 0644 를 사용해 소유자는 읽기/쓰기가 가능하며, 나머지 모든 사람은 읽기만 가능하게 한다.
 
-10) rm
+## 10) rm
 ```c
 void rm(){
 	char name[30];
@@ -319,7 +319,7 @@ void rm(){
 ```
  사용자가 rm을 입력하면 rm 함수가 동작한다. scanf를 통해 삭제시킬 명령어를 받는다. remove 함수를 사용하여 파일을 삭제한다. unlink는 비어있는 디렉토리는 에러가 나지만 remove 함수는 비어있는 디렉토리도 삭제가 가능하다. 만약 nResult 값이 –1을 반환한다면 삭제에 실패한 것이다. 
 
-11) ln
+## 11) ln
 ```c
 void ln(){	
 	char a[30];
@@ -330,7 +330,7 @@ void ln(){
 ```
  사용자에게 link로 연결할 값을 scanf를 통해 2개로 받는다. 그 값을 link를 통해 하드링크로 생성한다.
 
-12) stat
+## 12) stat
 ```c
 void st(){
 	char *c[30];
@@ -383,7 +383,7 @@ time_t st_mtime; time of last modification
 time_t st_ctime; time of last status change
 이 중에서 주요 내용은 st_mode : 파일의 종류와 파일에 대한 access 권한 정보 파일의 종류를 체크한다. 
 
-13) chmod
+## 13) chmod
 ```c
 int mode = 0;
 scanf("%o",&mode);
@@ -408,7 +408,7 @@ else{
 
 
 
-14) alias
+## 14) alias
 ```c
 else if(strcmp(buffer,"alias")==0){
 			scanf("%s",ali);
@@ -432,7 +432,7 @@ else if(strcmp(buffer,"alias")==0){
 ```
  먼저 구조체 배열을 선언한다. 구조체 배열에는 fake_name[100] (별명) real_name[100] (명령어) 로 구성한다. 만약 사용자가 alias를 입력한다면 scanf를 통해 a=’ls’ 값을 받는다. 여기서 먼저 sscnaf를 통해 =을 기준으로 앞에 있는 값을 fake_name[k]에 저장한다. 여기서 k값은 무한 반복문이 수행되기 전에 0으로 초기화 되어 있고, alias가 수행된다면 k++로 값을 늘려준다. =으로 자르고 남은 ‘ls’ 값을 strtok을 통하여 작은 따옴표를 분리하여 real_name[k]에 저장한다. 반복문을 통해 사용자가 명령어를 입력할 때 만약 별명 배열에 저장되어 있는 값과 똑같고 실제 명령어 배열에 Minishell에 구현되어 있는 명령어 중 하나가 있다면 동작하게 된다. 
 
-15) exit
+## 15) exit
 
    만약 사용자가 exit를 입력하면 break를 통해 무한 반복문을 끝낸다.
 
