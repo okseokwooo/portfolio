@@ -1,7 +1,7 @@
 # Portfolio
 
  ## 학습활동
- - [C# 자기주도 학습 모둠](#c#-자기주도-학습-모둠)
+ - [C# 자기주도 학습 모둠](#자기주도-학습-모둠)
  - [주식 프로그램(php)](#주식-프로그램-php)
  - [전자회로 실험](#전자회로-실험)
  - [통신시스템 설계](#통신시스템-설계)
@@ -23,7 +23,7 @@
 
 ___
 
-# c# 자기주도 학습 모둠
+# 자기주도 학습 모둠
 <img width="500" alt="1" src="https://user-images.githubusercontent.com/79968300/177314885-148431ba-309a-4ff2-aef6-7f5c6b9bd82b.PNG">
 <img width="500" alt="2" src="https://user-images.githubusercontent.com/79968300/177314896-7a9e3ac5-b912-4812-9dc2-b7edef8a60a2.PNG">
 <img width="500" alt="3" src="https://user-images.githubusercontent.com/79968300/177314912-36d58dad-290f-4801-b534-6701f59dad7d.PNG">
