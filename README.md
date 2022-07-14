@@ -12,7 +12,7 @@
  - [안드로이드 앱개발(하계방학)](#안드로이드-앱개발-하계방학)
  - [주식 프로그램(c#)](#주식-프로그램)
  - [자동문 프로젝트](#자동문-프로젝트)
- - 갖다드림 프로젝트
+ - [갖다드림 프로젝트](#갖다드림-프로젝트)
  - we-up 프로젝트
  - 스마트 이어폰
  - gdsc해커톤 대회
@@ -470,6 +470,85 @@ ___
 # 갖다드림 프로젝트
 
 시연영상 : https://youtu.be/t5VzGI4r0uI
+
+스마트모바일 프로그래밍 프로젝트 주제는 "갖다드림"으로 선택했다. 주제를 선택한 이유는 교내에서 누군가 대신 해주었으면 하는 심부름이 필요한 상황을 종종 겪게되는데 이에대한 편의를 제공하기 위해 생각해냈다. 상명대학교 학생들을 위한 심부름 서비스 Application이고, 캠퍼스 내 시설 또는 캠퍼스 근방 학생들에게 심부름 서비스를 제공한다. 심부름 시키는 사람은 수행하는 사람에게 일정한 대가를 지급하여 어플이 순환한다. 따로 서버를 구현하여 채팅방 기능 및 로그인 회원가입을 수행했다.
+
+## 각 클래스 기능별 설명
+
+|클래스|기능|layout|
+|------|---|---|
+|AddressActivity.java|구글맵 api를 사용한 위치확인|activity_adress.xml|
+|Board_Module.java|게시글관련 데이터들의 클래스화|x|
+|Chat_Module.java|채팅관련 데이터들의 클래스화|x|
+|Chatting_Fragment.java|채팅방 보기|chatting_fragment.xml|
+|ChattingAdapter.java|Chatting_Fragment RecyclerView에 들어갈 어댑터|x|
+|ChattingContentData.java|ChattingAdapter 들어갈 컴포넌트 클래스화|x|
+|ChattingRecordMoudule.java|채팅기록관련 데이터들의 클래스화|x|
+|CustomCareActivity.java|고객센터 Activity|activity_custom_care.xml|
+|FinalURLIP.java|서버 ,port주소설정|x|
+|GMailSender.java|학번 인증번호 전송관련 라이브러리|x|
+|GpsTracker.java|GPS관련 라이브러리|x|
+|GuideActivity.java|전체 가이드라인 설정|activity_guide.xml|
+|Guide_First.java|가이드라인1|guide_line_first.xml|
+|Guide_second.java|가이드라인2|guide_line_second.xml|
+|Guide_third.java|가이드라인3|guide_line_third.xml|
+|Guide_Fourth.java|가이드라인4|guide_line_fourth.xml|
+|Guide_Five.java|가이드라인5|guide_line_five.xml|
+|InsetBoardActivity.java|게시판에 글쓰기 화면|activity_insert_board.xml|
+|LoginActivity.java|로그인 화면|activity_login.xml|
+|MainActivity.java|메인 화면|activity_main.xml|
+|MainAdapter.java|MainActivity RecyclerView에 들어갈 어댑터|x|
+|MainBoard_Fragment.java|게시판목록보기화면|mainboard_fragment.xml|
+|MainData.java|MainAdapter에 들어갈 컴포넌트 클래스화|x|
+|MembershipActivity.java|회원가입 화면|activity_membership.xml|
+|MenuList_Fragment.java|주문목록 화면|menulist_fragment.xml|
+|MyInfo_Fragment.java|내정보 화면|myinfo_fragment.xml|
+|MyService.java|양방향 통신을 하기위한 안드로이드 Service|x|
+|NoticeAdapter.java|NotifyActivity RecyclerView에 들어갈 어댑터|x|
+|NoticeData.java|NoticeAdapter에 들어갈 컴포넌트 클래스화|x|
+|Notify_Module.java|공지관련 데이터들의 클래스화|x|
+|NotifyActivity.java|공지사항 화면|activity_notify.xml|
+|RequestHttpURLConnection.java|단방향통신을 하기위한 라이브러리|x|
+|SignatureUtil.java|해시코드로 변환하기위한 라이브러리|x|
+|Splash.java|앱 실행시 Splash Animation|splash.xml|
+|User_Module.java|유저관련 데이터들의 클래스화|x|
+
+Server
+|클래스|기능|
+|------|---|
+|Board_Module.java|게시물 관련 데이터 클래스화|
+|Custom_Module.java|고객센터 문의 관련 데이터 클래스화|
+|Chat_Module.java|채팅 메세지 데이터 클래스화|
+|Server_Module.java|소켓 프로그래밍(채팅) 데이터 클래스화|
+|Notify_Module.java|공지사항 게시물 관련 데이터 클래스화|
+|BoardDAO.java|게시물 데이터베이스에 접근 클래스
+|ChatDAO.java|채팅 기록 데이터베이스 접근 클래스|
+|ChatListDAO.java|채팅 목록 데이터베이스 접근 클래스|
+|CustomCareDAO.java|고객센터 문의글 데이터베이스 접근 클래스|
+|NotifyDAO.java|공지사항 데이터베이스 접근 클래스|
+|userDAO|로그인, 회원가입 등 유저 정보 데이터베이스 접근 클래스|
+
+Servlet
+|Servlet|Request|Response|DBUpdate|
+|------|---|---|---|
+|CallChattingRoomDateServelt.java|서비스 제공자/이용자 ID |채팅 기록|x|
+|ChangePWServlet.java|유저ID, 변경할PW|x|새로운PW DB저장||
+|CustomReportServlet.java|고객센터 신고 데이터|x|신고글 DB저장|
+|EditProgressServlet.java|주문ID,접수ID|x|주문의 진행상태 변경|
+|InsertChattingRoomServlet.java|주문ID,접수ID|x|채팅목록DB 유저 추가|
+|IsThereIDServlet.java|입력ID|ID중복여부|x|
+|LoadOnBoardServlet.java|요청 parameter|모든 주문게시글 데이터|x|
+|LoadOwnOrdersServlet.java|유저ID|유저의 주문목록 데이터|x|
+|LoginConfirmServlet.java|유저ID, 유저PW|ID,PW 일치여부|x|
+|NotifyReceiverServlet.java|공지사항 데이터|x|공지사항 DB저장|
+|NotifySenderServlet.java|요청 parameter|공지사항 데이터|x|
+|OrderCancelServlet.java|주문고유번호|x|지정된 주문목록DB에서 삭제|
+|OrderCompltedServlet.java|주문고유번호|x|주문상태완료로 변경|
+|OrdererErranderIDServlet.java|유저ID|채팅상대ID|x|
+|PostOnBoardServlet.java|주문게시글 데이터|x|주문목록DB에 주문추가|
+|RegisterUserServlet.java|회원가입양식 데이터|x|유저DB에 회원정보추가|
+|ShowUserInfoServlet.java|유저ID|유저의 회원정보|x|
+|SignatureUtilServlet.java|입력 PW|x|회원정보 입력 전 비밀번호 암호화|
 
 
 
