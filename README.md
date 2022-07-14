@@ -13,12 +13,12 @@
  - [주식 프로그램(c#)](#주식-프로그램)
  - [자동문 프로젝트](#자동문-프로젝트)
  - [갖다드림 프로젝트](#갖다드림-프로젝트)
- - 스마트 이어폰
- - gdsc해커톤 대회
+ - [딥러닝 소리 분석에 기반한 이어폰](#딥러닝-소리-분석에-기반한-이어폰)
  
  ## 학업외 활동
  - 우리말가꿈이
  - we-up 프로젝트
+ - gdsc해커톤 대회
  - 프로보노 공모전(노인 낙상 방지)
 
 ___
@@ -549,6 +549,19 @@ Servlet
 |RegisterUserServlet.java|회원가입양식 데이터|x|유저DB에 회원정보추가|
 |ShowUserInfoServlet.java|유저ID|유저의 회원정보|x|
 |SignatureUtilServlet.java|입력 PW|x|회원정보 입력 전 비밀번호 암호화|
+
+
+
+___
+
+
+
+# 딥러닝 소리 분석에 기반한 이어폰
+
+<img width="825" alt="1" src="https://user-images.githubusercontent.com/79968300/178923098-449b491c-e8b4-4bbe-b3cf-cae84220737b.PNG">
+
+
+시연영상 : https://youtu.be/sSnHU26QQiU
 
 
 
