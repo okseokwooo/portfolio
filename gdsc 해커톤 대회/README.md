@@ -15,7 +15,7 @@ https://github.com/2022-GDSC-Sangmyung-Hackathon/01_chorokmaesil
 
 ## 이러한 주제를 통해 대회 2등을 하였다.
 
-<img width="500" alt="2" src="https://user-images.githubusercontent.com/79968300/179389305-9cc992e7-906c-4b4e-a566-8711f3418272.PNG">
+<img width="1000" alt="2" src="https://user-images.githubusercontent.com/79968300/179389305-9cc992e7-906c-4b4e-a566-8711f3418272.PNG">
 
 
 <img width="500" alt="3" src="https://user-images.githubusercontent.com/79968300/179389309-e0a4729b-0a03-4e81-9cda-257e3d0bcd2f.PNG">
