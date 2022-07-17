@@ -1,0 +1,227 @@
+C:\Users\USER\source\repos\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\USER\source\repos\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\USER\source\repos\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\USER\source\repos\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\leesoyong\Desktop\StockMarket\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\Administrator\Desktop\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\sw\Desktop\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\leesoyong\Desktop\2차수정(주식리스트뷰까지띄움) (2)\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\USER\source\repos\stock_4차수정\1차수정(주식리스트뷰까지띄움)\StockMarket20180607\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\leesoyong\Desktop\서브스톡리스트뷰수정\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\sw\Desktop\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csprojAssemblyReference.cache
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\그램그램\Documents\카카오톡 받은 파일\리스트뷰 삭제 오류 해결\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.SubStockMarket.resources
+C:\Users\Administrator\Desktop\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.Cache
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csprojAssemblyReference.cache
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\그램그램\Documents\카카오톡 받은 파일\혹시모르니까\13131313\DB파일입출력에러모두해결\StockMarket\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.csprojAssemblyReference.cache
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\그램그램\Desktop\김규형,옥석우,이소용\StockMarket (3)\StockMarket\obj\Debug\StockMarket.pdb
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\bin\Debug\StockMarket.exe.config
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\bin\Debug\StockMarket.exe
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\bin\Debug\StockMarket.pdb
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.csprojResolveAssemblyReference.cache
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.AccountLogin.resources
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.FindIDForm.resources
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.FindPasswordForm.resources
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.JoinForm.resources
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.JoinForm_Next.resources
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.LoginForm.resources
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.MainStockMarket.resources
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.Properties.Resources.resources
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.ResetPassword.resources
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.csproj.GenerateResource.cache
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.exe
+C:\Users\sw\Desktop\김규형,옥석우,이소용 (3)\StockMarket (3)\StockMarket\obj\Debug\StockMarket.pdb
