@@ -1,0 +1,51 @@
+*{margin: 0px; padding: 0px;}
+ul{list-style: none;} 
+a:visited { text-decoration:none; color: white; }
+table{
+        border-collapse: collapse;
+        border : 1px solid blue;
+        background: pink;
+        width : 600px;
+        margin: auto;
+    }
+    td, th{
+        border : 1px dotted green;
+        width : 150px;
+    }
+header{
+    width: 1600px; 
+    height: 175px;
+    background-color: #2d3a4b;
+    position: relative;
+    margin: 0 auto;
+}
+
+#logo{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+ 
+}
+ 
+#top_menu{
+    position: absolute;
+    top: 20px;
+    right: 16px;
+    color: white;
+    font-size: 16px;
+}
+ 
+#top_menu a{color: white;}
+
+nav{
+    position: absolute;
+    bottom: 10px;
+    right: 220px;
+    font-size: 25px;
+} 
+nav li{
+    display: inline;
+    margin-left: 30px;
+}
+nav li a{color: white;}
+
