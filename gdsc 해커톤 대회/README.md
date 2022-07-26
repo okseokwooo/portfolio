@@ -1,4 +1,4 @@
-구현 코드 : https://github.com/2022-GDSC-Sangmyung-Hackathon/01_chorokmaesil
+## 구현 코드 : https://github.com/2022-GDSC-Sangmyung-Hackathon/01_chorokmaesil
 
 학교에서 실시한 GDSC 해커톤 대회에 참가하였다. 대회 당일 주제가 주어지는 형식으로 주어진 시간은 24시간으로 24시간 내에 코드를 완성해야 하는 프로젝트이다.
 
